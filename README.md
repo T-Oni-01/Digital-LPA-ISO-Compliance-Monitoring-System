@@ -71,6 +71,7 @@ Tab 4 — ISO & Corrective Actions
 •	Nonconformities
 •	Due dates
 •	Automatic overdue flagging
+•	Aging analysis
 
 <img width="898" height="538" alt="image" src="https://github.com/user-attachments/assets/5a9659a0-24a2-421e-a239-a174fb327c59" />
 
@@ -82,5 +83,5 @@ Tab 4 — ISO & Corrective Actions
 
 <img width="897" height="477" alt="image" src="https://github.com/user-attachments/assets/d8a1c9e1-0850-42da-8749-370e0b0c10e4" />
 
-•	Aging analysis
+
 
